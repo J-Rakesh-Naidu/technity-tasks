@@ -1,4 +1,4 @@
-# Technity-Tasks
+# Introspection
 ## Introduction
 I am J Rakesh Naidu, II year AIE student. I feel passionate towards coding and even though I was new to this subject, I learned fast. I have learned C programming, HTML, CSS, JS, Java and Python. I think I am decent at all of them.
 
