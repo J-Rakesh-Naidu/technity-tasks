@@ -1,0 +1,80 @@
+@import url(https://db.onlinewebfonts.com/c/bd9805cba4fdbd10e6f9d097dab9225f?family=Chalkduster);
+@import url(https://db.onlinewebfonts.com/c/fb39a9928c0b77d063ad5613bc1443a8?family=Marker);
+
+body {
+  text-align: center;
+  background-color: #333333;
+}
+
+h1 {
+  font-size: 5rem;
+  color:  #F5F5F5;
+  font-family: 'Chalkduster';
+}
+
+.drum {
+  border: 2px solid #000000;
+  box-shadow: 5px 5px 5px 5px black;
+  font-size: 5rem;
+  font-weight: 200;
+  border-radius: 40px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  font-family: "Marker";
+}
+
+.w {
+  background-color: #007BFF ;
+  color: #FFFFFF;
+  text-shadow: 2px 2px 2px #004BA0;
+}
+
+.a {
+  background-color: #17A2B8;
+  color: #FF6B6B;
+  text-shadow: 2px 2px 2px #156C7E ;
+}
+
+.s {
+  background-color: #B19CD9;
+  color:  #66DE93;
+  text-shadow: 2px 2px 2px #6B5D94 ;
+}
+
+.d {
+  background-color: #FFD700;
+  color: #333333;
+  text-shadow: 2px 2px 2px #B4A5A5;
+}
+
+.j {
+  background-color: #E63946;
+  color: #F1FAEE;
+  text-shadow: 2px 2px 2px #A12631;
+}
+
+.k {
+  background-color: #2ECC71;
+  color: #D5DBDB ;
+  text-shadow: 2px 2px 2px #186A3B;
+}
+
+.l {
+  background-color: #800080;
+  color: #FFD700;
+  text-shadow: 2px 2px 2px #36013F;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.drum:active{
+  box-shadow: 2px 2px 2px 2px black;
+  opacity: 0.9;
+  transform: translateX(3px);
+  text-shadow: 0px 0px 0px;
+}
