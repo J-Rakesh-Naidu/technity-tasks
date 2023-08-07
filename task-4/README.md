@@ -1,4 +1,4 @@
-![Image](https://github.com/J-Rakesh-Naidu/technity-tasks/blob/main/task-4/Screenshot%(630).png)
+![Image](https://github.com/J-Rakesh-Naidu/technity-tasks/blob/main/task-4/Screenshot%20(630).png)
 
 <h2>My Approach,</h2>
 
