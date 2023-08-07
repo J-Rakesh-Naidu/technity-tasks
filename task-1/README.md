@@ -1,5 +1,11 @@
 ![image](https://github.com/J-Rakesh-Naidu/technity-tasks/blob/main/task-1/Screenshot%20(632).png)
 
+<h1>Approach</h1>
+
+I first, assigned the colors to variables so that it will be easy to use.
+I aligned almost everything using flex property and used box-properties to size them right.
+I tried my best to make it as similar as I can while experimenting with different heights and widths.
+
 HTML Code:
 ```
 <!DOCTYPE html>
