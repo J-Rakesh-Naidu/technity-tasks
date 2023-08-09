@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Club Registration</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Club Registration</h2>
+        <form id="registrationForm" enctype="multipart/form-data">
+            <p><label for="name">Name:</label></p>
+            <input type="text" id="name" name="name" required>
+            
+            <label for="birthday">Birthday:</label>
+            <input type="date" id="birthday" name="birthday" required>
+            
+            <div class="gender">
+                <label for="gender">Gender:</label>
+                <input type="radio" id="male" name="gender" value="male" required>
+                <label for="male">Male</label>
+                <input type="radio" id="female" name="gender" value="female">
+                <label for="female">Female</label>
+            </div>
+            <br>
+            
+            <label for="phone">Phone Number:</label>
+            <input type="tel" id="phone" name="phone" required>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+            
+            <label for="confirm_password">Confirm Password:</label>
+            <input type="password" id="confirm_password" name="confirm_password" required>
+            
+            <label for="photo">Photo Upload:</label>
+            <input type="file" id="photo" name="photo" accept="image/*" required>
+            
+            <a href="thankyou.html"><input type="submit" value="Submit"></a>
+            <p class="error" id="errorText"></p>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
