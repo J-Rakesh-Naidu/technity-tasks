@@ -1,3 +1,6 @@
+<img src="https://github.com/J-Rakesh-Naidu/technity-tasks/blob/main/task-6/Task-6.gif" width=1000px>
+
+
 # Approach
 
 I never worked with APIs or made Telegram Bots. This was a completely new to me.
