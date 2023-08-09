@@ -8,3 +8,5 @@ I made a simple registration form with name, email, birthday, gender, password, 
 All are required fields and there is error checking if age is less than 16, password and confirm password dont match, photo file size more than 5 mb.
 
 After successful submission it goes to a thank you.
+
+For the JS I made an empty list named errors and then checked for each restrictions then pushed them into the list so that I can print all the errors messages in one block.
