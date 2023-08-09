@@ -1,4 +1,5 @@
 ![Image](https://github.com/J-Rakesh-Naidu/technity-tasks/blob/main/task-4/Screenshot%20(630).png)
+<img src="https://github.com/J-Rakesh-Naidu/technity-tasks/blob/main/task-4/Task-4%20GIF.gif" width="900px" height="500px">
 
 <h2>My Approach,</h2>
 
