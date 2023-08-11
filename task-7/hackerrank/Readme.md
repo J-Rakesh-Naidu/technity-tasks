@@ -1,5 +1,5 @@
 ## Experience
-I could do these problems comfortably. I took some testing for Time conversion one.
+I could do these problems comfortably. It took some testing for Time conversion one.
 
 ### Compare the Triplets
 ![](https://github.com/J-Rakesh-Naidu/technity-tasks/blob/main/task-7/hackerrank/Screenshot%202023-08-08%20203510.png)
