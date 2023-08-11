@@ -1,4 +1,5 @@
 # Experience
-I could do all problems except the palindrome one in Euler Project.
+
+I was able to complete all the problems but I took some time for the palindrome problem in euler project.
 
 Hackerrank and Codeforce problems didn't give me much trouble.
