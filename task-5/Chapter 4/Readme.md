@@ -1,6 +1,6 @@
 # Answers
 
-1)The empty list value, which is a list value that contains no items. This is similar to how '' is the empty string value.
+1) The empty list value, which is a list value that contains no items. This is similar to how '' is the empty string value.
 
 2) spam[2] = 'hello' (Notice that the third value in a list is at index 2 because the first index is 0.)
 
