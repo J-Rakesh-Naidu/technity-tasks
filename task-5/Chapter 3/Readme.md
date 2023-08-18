@@ -2,7 +2,7 @@
 1) Functions will help us make our code shorter and reduce repitition.
 2) The code in a function executes when the function is called.
 3) The def statement creates a function.
-4) A function consists of the def statement and the code in its def clause. A function call is what moves the program execution into the function, and the function call evaluates to the function’s return value.
+4) A function consists of the def statement and all the code to perform. The function call evaluates to the function’s return value.
 5) There is one global scope, and a local scope is created whenever a function is called.
 6) When a function returns, the local scope is destroyed, and all the variables in it are forgotten.
 7) A return value is the value that a function call evaluates to. Like any value, a return value can be used as part of an expression.
