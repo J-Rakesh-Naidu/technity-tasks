@@ -10,11 +10,11 @@
 
 5. Multiline strings allow you to use newlines in strings without the \n escape character.
 
-6. The expressions evaluate to 'e','Hello','Hello','lo, world!
+6. The expressions evaluate to 'e', 'Hello', 'Hello', 'lo, world!
 
-7. The expressions evaluate to 'HELLO',True,'hello'
+7. The expressions evaluate to 'HELLO', True, 'hello'
    
-8. The expressions evaluate to ['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.']
+8. The expressions evaluate to ['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.'] 
 'There-can-be-only-one.'
 
 9. The rjust(), ljust(), and center() string methods, respectively
